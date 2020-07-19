@@ -31,7 +31,7 @@ export const userData = [
         name: 'varsha',
         batch: 'Bcom',
         pqunty: 5
-    },
+    }
 
 
 ]
