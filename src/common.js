@@ -22,7 +22,7 @@ export const userData = [
 
     {
         id: 4,
-        name: 'jisha',
+        name: 'juli',
         batch: 'BCA',
         pqunty: 4
     },
